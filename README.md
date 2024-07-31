@@ -5,11 +5,11 @@ Aplicação front-end desenvolvida com objetivo de praticar e reforçar conceito
 </p>
 <br>
 <p align="center">
-  <img alt="Calculadora JavaScript" src=".github/cover.png" width="100%">
+  <img alt="Calculadora JavaScript" src=".github/cover.png" width="100%" height="40%">
 </p>
 
 
-- [Acesse o projeto finalizado, online](https://pokedex-brs.vercel.app/)
+- [Acesse o projeto finalizado, online](https://calculadora-javascript-brs.vercel.app/)
 <br><br>
 
 <p align="center">
