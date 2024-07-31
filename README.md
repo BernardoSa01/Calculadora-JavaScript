@@ -5,7 +5,7 @@ Aplicação front-end desenvolvida com objetivo de praticar e reforçar conceito
 </p>
 <br>
 <p align="center">
-  <img alt="Calculadora JavaScript" src=".github/cover.png" width="100%" height="40%">
+  <img alt="Calculadora JavaScript" src=".github/cover.jpg" width="60%">
 </p>
 
 
